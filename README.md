@@ -8,9 +8,9 @@ Welcome to **SlipNSlide**! This Android library allows you to create interactive
   <i>SlipNSlide in action!</i>
 </p>
 
-## 📦 Installation
 ### Even a cat walking across your keyboard could accidentally install SlipNSlide, its that simple. Here's how:
 
+## 📦 Installation
 ### If you are using Gradle version 7.0 or above:
 
 **Step 1.** Add the JitPack repository to your settings.gradle:
