@@ -57,14 +57,13 @@ dependencies {
 
 #### Add the SlipNSlide view to your XML layout and customize it as needed. Here's a simple example:
 ```xml
-<com.example.myapp.SlipNSlide
+<com.sanskar.animateslideutils.SlidingView
     android:layout_width="100dp"
     android:layout_height="100dp"
     android:id="@+id/mySlipNSlide">
 
 <!-- Any view that's been dreaming of a life full of thrill and slides -->
-
-</com.example.myapp.SlipNSlide>
+</com.sanskar.animateslideutils.SlidingView>
 ```
 
 ### In your Kotlin activity:
